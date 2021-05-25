@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,QACE,WAAY,CACZ,wBAAoC","file":"main.0e9e7d89.chunk.css","sourcesContent":[".active {\n  width: 150px;\n  background-color: rgb(146, 134, 134);\n}\n"]}
